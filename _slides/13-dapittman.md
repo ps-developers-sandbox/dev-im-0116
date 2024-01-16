@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Edit by dapittman
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
