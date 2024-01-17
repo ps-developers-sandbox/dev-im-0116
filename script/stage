@@ -5,7 +5,7 @@ grn=$'\e[1;32m'
 end=$'\e[0m'
 
 account='training-staging'
-
+//test
 if [ "$1" = "" ]
 then
   repo="caption-this"
