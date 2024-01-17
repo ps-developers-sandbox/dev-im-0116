@@ -5,5 +5,5 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-![catstello](https://octodex.github.com/images/catstello.png)
+![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 {: .center}
