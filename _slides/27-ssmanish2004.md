@@ -4,7 +4,7 @@ title: "Welcome to our slide deck!"
 ---
 
 Caption here
-updated my file.
+File updated by Manish.
 
 ![labtocat](https://octodex.github.com/images/labtocat.png)
 {: .center}
